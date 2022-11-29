@@ -1,0 +1,90 @@
+[
+    {
+        "Id": 0,
+        "Category": "Bloody",
+        "Size": "56GB",
+        "Price": 49.99,
+        "Title": "Back4Blood",
+        "GameDescription": "Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. You are at the center of a war against the Ridden. These once-human hosts of a deadly parasite have turned into terrifying creatures bent on devouring what remains of civilization. With humanity’s extinction on the line, it’s up to you and your friends to take the fight to the enemy, eradicate the Ridden, and reclaim the world.",
+        "GameId": "245",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2018-03-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Bloody",
+        "Size": "86GB",
+        "Price": 69.99,
+        "Title": "Red Dead Redemption 2",
+        "GameDescription": "Red Dead Redemption 2 is a Western -themed action-adventure game. Played from a first or third-person perspective, the game is set in an open-world environment featuring a fictionalized version of the Western, Midwestern, and Southern United States in 1899, during the latter half of the Wild West era and the turn of the twentieth century.",
+        "GameId": "251",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2016-03-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Adventure",
+        "Size": "46GB",
+        "Price": 59.99,
+        "Title": "Uncharted",
+        "GameDescription": "Uncharted is a 2022 American action-adventure film directed by Ruben Fleischer from a screenplay by Rafe Lee Judkins, Art Marcum, and Matt Holloway, based on the video game franchise of the same name developed by Naughty Dog and published by Sony Interactive Entertainment.",
+        "GameId": "253",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2022-03-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Mithology",
+        "Size": "76GB",
+        "Price": 79.99,
+        "Title": "God Of War - Ragnarok",
+        "GameDescription": "God of War Ragnarök is a third-person action-adventure video game. It features an over-the-shoulder free camera, while cinematographically, the game is presented in a continuous shot, with no camera cuts or loading screens.",
+        "GameId": "262",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2022-11-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Mithology",
+        "Size": "76GB",
+        "Price": 39.99,
+        "Title": "God Of War",
+        "GameDescription": "While the first seven games were loosely based on Greek mythology, this installment is loosely inspired by Norse mythology, taking place several centuries after God of War III (2010). Six of the nine realms of Norse mythology can be explored.",
+        "GameId": "279",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2022-11-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Adventure",
+        "Size": "66GB",
+        "Price": 49.99,
+        "Title": "Ghost Of Tsushima",
+        "GameDescription": "Ghost of Tsushima is a 2020 action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment. ",
+        "GameId": "285",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2020-11-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Science Fiction",
+        "Size": "36GB",
+        "Price": 79.99,
+        "Title": "Horizon - Forbidden West",
+        "GameDescription": "Horizon Forbidden West is a third-person action role-playing game. Players control Aloy, a huntress in a world populated by dangerous machines. Set in an open world located in post-apocalyptic California, Utah and Nevada, the game will explore the mysterious frontier known as the Forbidden West. ",
+        "GameId": "215",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2021-11-30T00:00:00"
+    },
+    {
+        "Id": 0,
+        "Category": "Science Fiction",
+        "Size": "36GB",
+        "Price": 79.99,
+        "Title": "Marvel´s Spiderman",
+        "GameDescription": "Marvel's Spider-Man is an open-world action-adventure game set in the borough of Manhattan in a fictionalized version of modern-day New York City. It is presented from a third-person perspective showing the playable character and allowing the camera to be rotated freely around them. ",
+        "GameId": "415",
+        "Platform": "Play Station 5",
+        "GameReleaseDate": "2019-11-27T00:00:00"
+    }
+]
